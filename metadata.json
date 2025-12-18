@@ -1,0 +1,7 @@
+{
+  "name": "Amana Microfinance Prototype",
+  "description": "A mobile-first fintech application for Katsina State, featuring Hausa localization, AI-driven credit scoring, and group savings (Susu).",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
